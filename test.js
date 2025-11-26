@@ -7,3 +7,5 @@ console.log("first")
 console.log("testing fetch command")
 
 console.log("again testing")
+
+console.log("hi")
