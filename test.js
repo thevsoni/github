@@ -8,4 +8,4 @@ console.log("testing fetch command")
 
 console.log("hiiiii")
 
-console.log("hello0000")
+console.log("he")
