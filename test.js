@@ -5,3 +5,5 @@ console.log("first commit")
 console.log("first")
 
 console.log("testing fetch command")
+
+console.log("hi")
